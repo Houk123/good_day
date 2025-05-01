@@ -1,0 +1,12 @@
+body {
+  background: #01080f;
+  color: #fff;
+  font-family: "Archivo Black", sans-serif;
+  font-size: 3em;
+  text-align: center;
+  scrollbar-width: none;
+}
+canvas{
+  width: 100vw;
+  height: 90vh;
+}
